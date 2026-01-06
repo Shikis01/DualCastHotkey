@@ -51,3 +51,6 @@ Example contents (default):
 - It does not check or enforce perk requirements; if you want perk-based gating, that behavior can be re-added. And changed.
 ---
 Developed in January 2026 by Shikis01
+Some files were made originally by @mrowrpurr on Github.
+---
+Thanks to @mrowrpurr on github for her fantastic tutorial on how to start modding with SKSE and C++
